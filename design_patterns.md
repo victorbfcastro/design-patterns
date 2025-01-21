@@ -77,5 +77,6 @@ para  o  padrão  que  adotamos  em  nosso  sistema.
 > Utilizado para definir uma família de algoritmos, encapsular cada uma delas e torná-las INTERCAMBIAVEIS
 
 - Template Method
+> Utilizado para definir um template de métodos que as subclasses deverão implementar a partir de uma classe abstrata com métodos abstratos (classe mãe)
 
 - Visitor
